@@ -1,7 +1,7 @@
 # UpSolve CRUD Using OOP ⚡
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://skillicons.dev/icons?i=cs)
+![.NET](https://skillicons.dev/icons?i=dotnet)
 
 > **A sleek and powerful CRUD console app built with C# and OOP principles.** 💻🚀
 
@@ -48,8 +48,7 @@ Once launched, the console presents the following menu:
 ```
 Simply enter a number to execute the corresponding action! 🕹️
 
-## 🖥️ Preview
-![Console Screenshot](https://via.placeholder.com/800x400?text=CRUD+Console+App+Preview)
+
 
 
 ---
